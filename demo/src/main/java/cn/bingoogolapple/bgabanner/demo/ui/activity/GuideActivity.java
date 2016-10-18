@@ -22,6 +22,7 @@ public class GuideActivity extends Activity implements View.OnClickListener {
     private static final String TAG = GuideActivity.class.getSimpleName();
     private TextView mSkipTv;
     public String zq;
+    public String z1q;
     private Button mEnterBtn;
     private BGABanner mBackgroundBanner;
     private BGABanner mForegroundBanner;
